@@ -5,4 +5,5 @@
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mark8s&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mark8s)](https://github.com/anuraghazra/github-readme-stats)
 
