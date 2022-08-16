@@ -5,7 +5,7 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mark8s&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mark8s&show_icons=true&theme=blue-gree">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mark8s&show_icons=true&theme=radical">
 </p>
 
 ![](https://komarev.com/ghpvc/?username=mark8s)
