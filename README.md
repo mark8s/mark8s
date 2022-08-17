@@ -19,5 +19,5 @@
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=mark8s&theme=xcode" /> </div>
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mark8s" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mark8s&theme=radical" /> </div>
 
