@@ -2,7 +2,6 @@
 
 ### 🤗 欢迎来访
 ![](https://komarev.com/ghpvc/?username=mark8s)
-
 [![Mail Badge](https://img.shields.io/badge/-leis17@163.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:leis17@163.com)](mailto:leis17@163.com)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -13,7 +12,5 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=mark8s&show_icons=true&theme=tokyonight">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mark8s&show_icons=true&theme=radical&layout=compact">
 </p>
-
-![](https://komarev.com/ghpvc/?username=mark8s)
 
 ![亮色](https://github.com/mark8s/gihubSNK/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
