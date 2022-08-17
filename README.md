@@ -9,8 +9,8 @@
 
 ### 💻 Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=mark8s&show_icons=true&theme=tokyonight">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mark8s&show_icons=true&theme=radical&layout=compact">
+  <img height="137px" src = "https://github-readme-stats.vercel.app/api?username=mark8s&show_icons=true&theme=tokyonight">
+  <img height="137px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mark8s&show_icons=true&theme=radical&layout=compact">
 </p>
 
 
