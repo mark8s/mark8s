@@ -15,7 +15,6 @@
 
 <p align = "center">
   <img height="150px" src = "https://github-readme-streak-stats.herokuapp.com/?user=mark8s&theme=radical">
- ## <img height="160px" src = "https://activity-graph.herokuapp.com/graph?username=mark8s&theme=xcode">
 </p>
 
 
