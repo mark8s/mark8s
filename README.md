@@ -9,3 +9,5 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=mark8s)
+
+![亮色](https://github.com/mark8s/gihubSNK/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
