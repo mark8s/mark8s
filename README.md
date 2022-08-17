@@ -9,14 +9,16 @@
 
 ### 💻 Stats
 <p align = "center">
-  <img height="140px" src = "https://github-readme-stats.vercel.app/api?username=mark8s&show_icons=true&theme=tokyonight">
-  <img height="140px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mark8s&show_icons=true&theme=radical&layout=compact">
+  <img height="145px" src = "https://github-readme-stats.vercel.app/api?username=mark8s&show_icons=true&theme=tokyonight">
+  <img height="145px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mark8s&show_icons=true&theme=radical&layout=compact">
+</p>
+
+<p align = "center">
   <img height="140px" src = "https://github-readme-streak-stats.herokuapp.com/?user=mark8s&theme=radical">
+  <img height="160px" src = "https://activity-graph.herokuapp.com/graph?username=mark8s&theme=xcode">
 </p>
 
 
 ![亮色](https://github.com/mark8s/gihubSNK/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=mark8s&theme=xcode" /> </div>
 
 
