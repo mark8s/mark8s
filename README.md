@@ -9,13 +9,13 @@
 
 ### 💻 Stats
 <p align = "center">
-  <img height="145px" src = "https://github-readme-stats.vercel.app/api?username=mark8s&show_icons=true&theme=tokyonight">
-  <img height="145px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mark8s&show_icons=true&theme=radical&layout=compact">
+  <img height="148px" src = "https://github-readme-stats.vercel.app/api?username=mark8s&show_icons=true&theme=tokyonight">
+  <img height="148px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mark8s&show_icons=true&theme=radical&layout=compact">
 </p>
 
 <p align = "center">
-  <img height="140px" src = "https://github-readme-streak-stats.herokuapp.com/?user=mark8s&theme=radical">
-  <img height="160px" src = "https://activity-graph.herokuapp.com/graph?username=mark8s&theme=xcode">
+  <img height="150px" src = "https://github-readme-streak-stats.herokuapp.com/?user=mark8s&theme=radical">
+ ## <img height="160px" src = "https://activity-graph.herokuapp.com/graph?username=mark8s&theme=xcode">
 </p>
 
 
