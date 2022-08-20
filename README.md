@@ -23,6 +23,6 @@
 </p>
 
 
-![亮色](https://github.com/mark8s/gihubSNK/blob/master/github-contribution-grid-snake.svg#gh-light-mode-only)
+![亮色](https://github.com/mark8s/gihubSNK/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
