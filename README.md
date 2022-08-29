@@ -18,11 +18,6 @@
   <img height="148px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mark8s&show_icons=true&theme=radical&layout=compact">
 </p>
 
-<p align = "center">
-  <img height="150px" src = "https://github-readme-streak-stats.herokuapp.com/?user=mark8s&theme=radical">
-</p>
-
-
 ![亮色](https://github.com/mark8s/gihubSNK/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
