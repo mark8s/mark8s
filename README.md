@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mark. :satisfied: I am a cloud native developer from China. </h1>
+<h1 align="center">Hi 👋, I'm mark. :satisfied: </h1>
 
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
